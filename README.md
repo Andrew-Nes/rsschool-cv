@@ -1,1 +1,1 @@
-# rsschool-cv
+Click this [Link](https://Andrew-Nes.github.io/rsschool-cv/cv) to see my CV
