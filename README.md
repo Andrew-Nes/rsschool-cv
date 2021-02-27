@@ -1,1 +1,1 @@
-Click this [Link](https://www.example.com) to see my CV
+Click this [Link](https://Andrew-Nes.github.io/rsschool-cv/cv) to see my CV
