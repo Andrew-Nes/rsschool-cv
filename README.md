@@ -1,1 +1,1 @@
-Click this [Link](https://github.com/Andrew-Nes/rsschool-cv/blob/gh-pages/CV) to see my CV
+Click this [Link](https://github.com/Andrew-Nes/rsschool-cv/blob/gh-pages/) to see my CV

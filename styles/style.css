@@ -1,0 +1,48 @@
+body {
+    width: 800px;
+    height: 100%;
+    margin: 0 auto;
+    background-color:cornsilk;
+    padding: 0 20px 0 20px;
+    border: 0;
+  }
+h1{
+    color: blue;
+}
+
+img {
+
+    width: 200px;
+    
+}
+h3{ color: blue
+}
+.photo {
+    width: 200px; 
+    background:grey; 
+    padding: 0; 
+    border: solid 1px blue; 
+    float: right; 
+    position: relative; 
+    top: -40px; 
+    right: 0; 
+}
+.info {
+    width: 600px; 
+    padding: 0; 
+    border: 0;
+    float: top; 
+    position: relative; 
+    top: 0; 
+    left: 0; 
+}
+.summary {
+    width: 800px; 
+    padding: 0; 
+    margin: auto;
+    border: 0;
+    float: top; 
+    position: relative; 
+    top:0; 
+    left: 0px; 
+}
