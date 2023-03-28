@@ -1,1 +1,1 @@
-# rsschool-cv
+https://andrew-nes.github.io/rsschool-cv/
